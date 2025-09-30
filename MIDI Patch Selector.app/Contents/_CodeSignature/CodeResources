@@ -10,23 +10,27 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		KUw1QQKb046c/kgq2SlPMJwQfew=
+		Eu+Op310NV1au8on67t/B5efh+c=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/5gI-5U-AMq-view-ERx-hH-rdd.nib</key>
 		<data>
-		sdfH91a5EtlfU1gbzrbzR/G3F70=
+		q0Q56o5g2EMmANSCu2HUgOndUD0=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Document Window Controller.nib</key>
 		<data>
-		+Oyc/TbvQiSBLHXvzGodjYKnUkk=
+		nPAJQfQirLdCvRV7F3ye63d23GY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		tJjY3XCje937jKyrRYqPNLG200c=
+		hgiK0lDpNy05HkT9oj2NwzOTTEw=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		KMOeQb4xNsYZ8N/idd0HIlaDCIk=
+		5vG0eDXa9yijP+Eo3/BAA1EXSqM=
+		</data>
+		<key>Resources/README.md</key>
+		<data>
+		qP/UoiOZHN8Nal0hiEEFr1nm8sg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -42,35 +46,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NDU4P/GqfnbLb4UbT3T3spqzaah8vv3VUKmHXtoK5sY=
+			CqCKOxcIknbc6vs7pig/6Njg9l+DNKemg43G/EAYraU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/5gI-5U-AMq-view-ERx-hH-rdd.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fk9zNTthfzdtHuy+i1Axp26sBG+NwlE1+mTdD8qZUT0=
+			CmGpqVczkm6ZBN9hfUDloCjpk0Hlygi9JBJ6JgccRc8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Document Window Controller.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wpkVJYXV/M+sNRZzbNvWnhMh5ti7S9mA5/JA5hsaOJc=
+			H+awNAYkotYRfDEHNhcz3jTXj5G/TQMuMPKM22Q+CcI=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			na15iILrmSCay0R0pzZrPnnNpCsPBe/rYuwWAppGLGM=
+			K/Ah8ilcd8BAlYN2nBA1ux0FghGbiXINizgqVzqVvwg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MnZWrx6XMD3yp4w/PrrIEPVNynolHGXXFzqliDDYTKo=
+			iwqEc5en+ooGC6t5SAzCeAbMTqxLf185a5TxRCO1VQY=
+			</data>
+		</dict>
+		<key>Resources/README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XK1uo/vVhyb9BoGG3Fc1EguJnM0+c/Xp+ze8CT2pBtc=
 			</data>
 		</dict>
 	</dict>
